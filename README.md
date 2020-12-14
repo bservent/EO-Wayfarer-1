@@ -1,6 +1,6 @@
 # Exploring Odyssey
 Interactive traveling blog to post articles and learn from other user's experiences. 
-Exploring Odyssey also offers an internal API hosting 60+ destinations including travel tips and important info before you next vacation! Find the website [here](eo-wayfarer.herokuapp.com).
+Exploring Odyssey also offers an internal API hosting 60+ destinations including travel tips and important info before you next vacation! Find the website [here](https://eo-wayfarer.herokuapp.com).
 ## Index:
 - [Scope](#Scope)
 - [User Stories](#user-stories)
